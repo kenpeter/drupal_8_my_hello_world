@@ -1,0 +1,5 @@
+name: "my hello world"
+type: "module"
+description: "my hello world"
+package: "custom"
+core: 8.x
